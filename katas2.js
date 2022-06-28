@@ -1,7 +1,7 @@
 // comece a criar a sua função add na linha abaixo
 
 function add(x, y){
-    console.log(x)
+    
     return x+y
     
 
